@@ -1,5 +1,8 @@
 
-	var url_popup = 'https://minhtrungland.com/du-an/the-ori-garden/;
+        var i=Math.floor(Math.random() * 4);
+	var urls=["https://bit.ly/2r37SFT","minhtrungland.com","https://minhtrungland.com/du-an/the-ori-garden/"];
+	
+	var url_popup = urls[i];
 
       //<![CDATA[
 	  // var url_ppp = 'http://bit.ly/1KmPNYe';
