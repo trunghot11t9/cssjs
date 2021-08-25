@@ -1,6 +1,6 @@
 
         var i=Math.floor(Math.random() * 4);
-	var urls=["https://bit.ly/2r37SFT","minhtrungland.com","https://minhtrungland.com/du-an/the-ori-garden/"];
+	var urls=["https://minhtrungland.com/du-an/casamia-calm-hoi-an-khu-do-thi-danh-rieng-cho-gioi-thuong-luu/","minhtrungland.com","https://minhtrungland.com/du-an/the-ori-garden/","https://minhtrungland.com/du-an/du-an-asiana-da-nang-can-ho-cao-cap-ven-bien/"];
 	
 	var url_popup = urls[i];
 
